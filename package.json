@@ -1,6 +1,6 @@
 {
-  "name": "@test/simple-template",
-  "version": "1.0.15",
+  "name": "@zittertea/voluptatibus-dolore-blanditiis",
+  "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -10,8 +10,42 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/utilcode/simple-template.git"
+    "url": "https://github.com/zittertea/voluptatibus-dolore-blanditiis.git"
   },
   "dependencies": {
+    "@diotobtea/reprehenderit-alias-cum-consectetur": "^1.0.0",
+    "@dramateas/recusandae-molestiae-mollitia-modi": "^1.0.0",
+    "@erboladaiteas/quasi-ullam-placeat-consequuntur": "^1.0.0",
+    "@hishpr/excepturi-beatae-at-inventore": "^1.0.0",
+    "@juiggitea/praesentium-porro-voluptates-officiis": "^1.0.0",
+    "@kollusietea/consequuntur-nam-tempora-expedita": "^1.0.0",
+    "@patrten/fugiat-officiis-placeat-eius": "^1.0.0",
+    "@swenkertrea/sint-ipsa-delectus-rem": "^1.0.0",
+    "@taktikangea/delectus-atque-vero-error": "^1.0.0",
+    "@zittertea/ab-dolor-optio-sint": "^1.0.0",
+    "@zittertea/ab-officiis-consequuntur-labore": "^1.0.0",
+    "@zittertea/aliquam-asperiores-veritatis-totam": "^1.0.0",
+    "@zittertea/cupiditate-animi-tenetur-doloribus": "^1.0.0",
+    "@zittertea/deleniti-in-aspernatur-aut": "^1.0.0",
+    "@zittertea/deserunt-cumque-sequi-libero": "^1.0.0",
+    "@zittertea/dignissimos-harum-sint-alias": "^1.0.0",
+    "@zittertea/excepturi-laboriosam-vitae-atque": "^1.0.0",
+    "@zittertea/ipsa-nihil-aut-dignissimos": "^1.0.0",
+    "@zittertea/iste-sit-quisquam-quis": "^1.0.0",
+    "@zittertea/labore-non-placeat-vero": "^1.0.0",
+    "@zittertea/laboriosam-itaque-iste-aliquid": "^1.0.0",
+    "@zittertea/minima-nisi-placeat-cupiditate": "^1.0.0",
+    "@zittertea/molestias-vitae-ex-accusantium": "^1.0.0",
+    "@zittertea/natus-aliquam-eius-consectetur": "^1.0.0",
+    "@zittertea/nemo-in-error-sequi": "^1.0.0",
+    "@zittertea/pariatur-quis-doloribus-non": "^1.0.0",
+    "@zittertea/perspiciatis-reiciendis-qui-deserunt": "^1.0.0",
+    "@zittertea/praesentium-suscipit-nihil-esse": "^1.0.0",
+    "@zittertea/quae-doloremque-expedita-quas": "^1.0.0",
+    "@zittertea/quasi-neque-illo-sequi": "^1.0.0",
+    "@zittertea/quod-rem-harum-vitae": "^1.0.0",
+    "@zittertea/rerum-totam-officia-laudantium": "^1.0.0",
+    "@zittertea/sint-sapiente-maxime-aliquid": "^1.0.0",
+    "@zittertea/voluptatum-atque-similique-quidem": "^1.0.0"
   }
 }
